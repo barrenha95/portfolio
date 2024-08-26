@@ -38,3 +38,5 @@ with st.container():
         with open("./src/gif/boy_coding.json") as f:
             desired_gif = json.load(f)
         st_lottie(desired_gif, height=300, key="coding")
+
+# --- ---         
