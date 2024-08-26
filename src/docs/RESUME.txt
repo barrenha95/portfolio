@@ -1,0 +1,98 @@
+﻿João Victor Isá Barrenha
+barrenha95@yahoo.com.br | +55 14 98815 7415
+LinkedIn: https://www.linkedin.com/in/barrenha95/
+
+
+TARGET POSITION: DATA ANALYST / DATA SCIENTIST / MACHINE LEARNING ENGINEER
+
+
+SUMMARY & SKILLS
+I'm highly motivated by professional development, seeking excellence at work, and acquiring knowledge for problem-solving. I have expertise in planning especially in debt collection, fraud detection, call center operations, and digital products. I have experience in artificial intelligence, machine learning, business analysis, data analysis, and planning. I’m passionate about data and my main desire is to help society with technological and innovative solutions.
+
+
+* 4 years of experience in data science and 6 years in data analysis.
+* Expert in Business Intelligence, and Machine Learning.
+* Proficiency in Python, R, SQL, Power Bi, Tableau, and Microsoft Excel.
+* Experience working with different IDEs/text editors such as Sublime, Visual Studio Code (VS Code), Jupyter Notebook, Visual Studio Pro, Rstudio, and Google Colab.
+* I am able to work with virtual environments, Git, FTP, APIs, and diverse type of data.
+* I’m highly organized. I was often responsible for taking minutes at meetings, writing readable scripts, directory management, and project documentation.
+* I have a diplomatic personality. It helps me avoid unnecessary conflicts while defending the company's interests.
+
+
+PROFESSIONAL EXPERIENCE
+CLEAR SALE                                                                             Oct/2021 - present
+
+
+MODELING ANALYST                                                                                    Oct/2021 - present
+I’m responsible for two main roles:
+Acting as Machine Learning Engineer.
+* Management of Machine Learning models such as deployment and monitoring.
+* Following Machine Learning process reporting and solving issues.
+* Creating and tracking dashboards focused on Service Level Agreement (e.g., time to process a requisition and score punctuation).
+
+
+Acting as Data Analyst in the external data squad.
+* Developing studies such as seeking for cost offenders and quality tests of bureaus data.
+* Meeting with other squads to find the best way to use resources.
+
+
+PASCHOALOTTO                                                                   Nov/2014 - Oct/2021
+
+
+DATA SCIENTIST                                                                                          Oct/2020 - Oct/2021
+Responsible for the Proof of Concept of people analytics.
+* Project development, mapping of all databases, model development, and meeting management.
+* Creation of quizzes, gamification, and other approaches for collecting data.
+* Tracking project deadlines and deliveries.
+
+
+
+
+DATA SCIENTIST - JUNIOR                                                                        Jul/2018   - Oct/2020
+Acting in projects related to social profiling, dialing scores, and studies about the best way to contact clients. 
+* Creation and implementation of optimized dialing rules.
+* Implementation of a geolocalization treatment routine.
+* Development of scores for the propensity for payment.
+* Development of Text Messages interpretation algorithm.
+
+
+DATA ANALYST - DIGITAL PRODUCTS - JUNIOR                                   Sep/2017   - Jul/2018
+Responsible for the strategic development and Key Performance Indicators (KPI) monitoring regarding the company’s online platform for debt negotiation.
+* Creation of dashboards to track and monitor the KPI and development of executive presentations.
+* Validation and follow-up of new features in the online platform.
+* Development of strategies to reach customers using resources such as cell phone text messages and e-mails.
+
+
+DATA ASSISTANT - DIGITAL PRODUCTS                                                Dec/2016  - Sep/2017 
+Responsible for implementing strategies and updating KPI dashboards.
+* Selection of a specific profile of customers to reach them with cell phone text messages, e-mails, and Facebook ads.
+* Gathering and processing data for analysts.
+* Daily update of dashboards.
+
+
+EDUCATION
+UNOPAR                                                                                                              Bauru/SP, Brazil
+Bachelor’s degree in Software Engineering                                                                     In progress (2025)
+
+
+INSTITUIÇÃO TOLEDO DE ENSINO                                                                 Bauru/SP, Brazil
+Bachelor’s degree in Law                                                                                                 In progress (2023)
+
+
+LANGUAGES
+Portuguese     native
+English            upper intermediate
+French             beginner
+
+
+COURSES
+CertiProf                                                                                                              Bauru/SP, Brazil
+LGPD Fundamentals (Similar to GDPR in Brazil) - Credential ID 74545046                                        2022
+
+
+Soft blue Online Courses                                                                                  Bauru/SP, Brazil
+SQL Complete course - Credential ID 552781B175DE                                                                         2021
+             
+COMPLEMENTARY INFORMATION
+* Willing to relocate
+* Willing to travel

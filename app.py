@@ -1,13 +1,21 @@
-import streamlit as st
-import streamlit.components.v1 as components
+import streamlit as st # To create the webpage
+from PIL import Image # To open images
 
-path_to_html = "./content/portfolio.html"
+st.set_page_config(page_title="Isa's playground",  page_icon=":game_die:", layout="wide")
 
-with open(path_to_html, 'r') as f:
-    html_data = f.read()
+# --- LOAD ASSETS ---
+hero_img = Image.open("./src/img/hero_cropped.jpeg")
 
-st.header("Show an external HTML")
-st.components.v1.html(html_data, scrolling=True, height=500)
-#st.markdown(html_data, unsafe_allow_html=True)
+# --- HERO SECTION ---
+with st.container():
+    #st.image(hero_img)
+    st.title("João Barrenha")
+    st.subheader("Machine Learning Engineer")
+    st.write("Bauru, SP.")
 
-#st.write('Hello world!')
+# --- ABOUT ME ---
+st.write("---")
+left_column, right_column = st.columns(2)
+with left_column:
+    st.header("About Me")
+    st.write("##")
