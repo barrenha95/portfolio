@@ -1,14 +1,33 @@
 import streamlit as st # To create the webpage
-import requests # To use gif from lottiefiles
 from streamlit_lottie import st_lottie
 from PIL import Image # To open images
 import json
+import os
+import base64
 
 st.set_page_config(page_title="Isa's playground",  page_icon=":game_die:", layout="wide")
 
 # --- LOAD ASSETS ---
 hero_img = Image.open("./src/img/hero_cropped.jpeg")
 diabetes_img = Image.open("./src/img/diabetes.jpg")
+
+@st.cache(allow_output_mutation=True)
+def get_base64_of_bin_file(bin_file):
+    with open(bin_file, 'rb') as f:
+        data = f.read()
+    return base64.b64encode(data).decode()
+
+@st.cache(allow_output_mutation=True)
+def get_img_with_href(local_img_path, target_url):
+    img_format = os.path.splitext(local_img_path)[-1].replace('.', '')
+    bin_str = get_base64_of_bin_file(local_img_path)
+    html_code = f'''
+        <a href="{target_url}">
+            <img src="data:image/{img_format};base64,{bin_str}" />
+        </a>'''
+    return html_code
+
+
 
 # --- HERO SECTION ---
 with st.container():
@@ -64,3 +83,23 @@ with st.container():
         st.markdown("[Project here...](https://github.com/barrenha95/diabetes-prediction)")
 
 # --- ---         
+
+# ---- CONTACT ----
+with st.container():
+    st.write("---")
+    st.header("Get In Touch With Me 😉")
+    left_column, mid_column, right_column = st.columns(3)
+    with left_column: 
+        gif_html = get_img_with_href('./src/img/github-logo.png', 'https://github.com/barrenha95')
+        st.markdown(gif_html, unsafe_allow_html=True)
+        st.markdown("[github.com/barrenha95](https://github.com/barrenha95)")
+    with mid_column:
+        gif_html = get_img_with_href('./src/img/envelope.png', 'mailto:barrenha95@yahoo.com.br')
+        st.markdown(gif_html, unsafe_allow_html=True)
+        st.markdown("[barrenha95@yahoo.com.br](mailto:barrenha95@yahoo.com.br)")
+    with right_column:
+        gif_html = get_img_with_href('./src/img/linkedin-sign.png', 'https://www.linkedin.com/in/barrenha95/')
+        st.markdown(gif_html, unsafe_allow_html=True)
+        st.markdown("[in/barrenha95](https://www.linkedin.com/in/barrenha95/)")
+
+
