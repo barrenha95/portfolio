@@ -6,3 +6,10 @@ Color palette
 - #686D76 rgb(104, 109, 118) grey
 - #373A40 rgb(55, 58, 64)    black
 - #DC5F00 rgb(220, 95, 0)    orange
+
+
+<a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Dave Gandy - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Dave Gandy - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Dave Gandy - Flaticon</a>
