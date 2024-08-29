@@ -1,5 +1,5 @@
 # Portfolio
-A simple single-page portfolio for developers.
+A simple single-page portfolio for developers.  
 [Demo](https://isabarrenha.streamlit.app/)
 
 ## Color palette
