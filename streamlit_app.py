@@ -7,6 +7,13 @@ import base64
 
 st.set_page_config(page_title="Isa's playground",  page_icon=":game_die:", layout="wide")
 
+# --- Use of local CSS ---
+def local_css(file_name):
+    with open(file_name) as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+local_css("./style/style.css")        
+
 # --- LOAD ASSETS ---
 hero_img = Image.open("./src/img/hero_cropped.jpeg")
 diabetes_img = Image.open("./src/img/diabetes.jpg")
