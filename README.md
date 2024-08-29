@@ -18,11 +18,11 @@ A simple single-page portfolio for developers.
 
 <a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Dave Gandy - Flaticon</a>
 
-#### Streamlit reference:
+### Streamlit reference:
 
 https://github.com/Sven-Bo/personal-website-streamlit
 
-#### Site layout reference:
+### Site layout reference:
 
 https://github.com/mmacneil/devfolio
 
