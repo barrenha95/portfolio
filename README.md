@@ -1,6 +1,6 @@
 # Portfolio
 A simple single-page portfolio for developers.  
-[Demo](https://isabarrenha.streamlit.app/)
+View the [Demo here!](https://isabarrenha.streamlit.app/) 
 
 ## Color palette
 - #EEEEEE rgb(238, 238, 238) white
